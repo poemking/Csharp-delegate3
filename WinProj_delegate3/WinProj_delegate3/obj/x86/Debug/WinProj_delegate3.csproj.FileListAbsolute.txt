@@ -1,0 +1,8 @@
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\bin\Debug\WinProj_delegate3.exe
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\bin\Debug\WinProj_delegate3.pdb
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\obj\x86\Debug\WinProj_delegate3.Form1.resources
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\obj\x86\Debug\WinProj_delegate3.Properties.Resources.resources
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\obj\x86\Debug\WinProj_delegate3.csproj.GenerateResource.Cache
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\obj\x86\Debug\WinProj_delegate3.exe
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\obj\x86\Debug\WinProj_delegate3.pdb
+D:\Ptactice\WinProj_delegate3\WinProj_delegate3\obj\x86\Debug\WinProj_delegate3.Form2.resources
